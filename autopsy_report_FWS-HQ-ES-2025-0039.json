@@ -1,0 +1,1419 @@
+{
+ "docket": "FWS-HQ-ES-2025-0039",
+ "n_records": 35714,
+ "n_usable": 33737,
+ "pct_exact": 0.6804398731363192,
+ "pct_template": 0.10288407386548892,
+ "pct_paraphrase": 0.03038207309482171,
+ "pct_organic": 0.18629397990337018,
+ "suspect_rate": 0.0757921569789845,
+ "t1": [
+  {
+   "tier": "T1-exact",
+   "size": 14336,
+   "peak_day": "2025-11-25",
+   "peak_day_share": 0.36,
+   "n_days": 20,
+   "ai_register_mean": 0.0,
+   "len_mean": 202,
+   "len_cv": 0.0,
+   "excerpt": "I oppose this proposal to rewrite Endangered Species Act rules, and I urge you to withdraw it. This proposal would reverse a longstanding rule prohibiting consi",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-0199",
+    "FWS-HQ-ES-2025-0039-0200",
+    "FWS-HQ-ES-2025-0039-0206",
+    "FWS-HQ-ES-2025-0039-0205",
+    "FWS-HQ-ES-2025-0039-0204"
+   ]
+  },
+  {
+   "tier": "T1-exact",
+   "size": 3643,
+   "peak_day": "2025-12-08",
+   "peak_day_share": 0.17,
+   "n_days": 16,
+   "ai_register_mean": 3.4,
+   "len_mean": 550,
+   "len_cv": 0.0,
+   "excerpt": "I strongly oppose the proposed changes to the Endangered Species Act, which would undermine the law&#39;s original intent and expose threatened and endangered w",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-10832",
+    "FWS-HQ-ES-2025-0039-10834",
+    "FWS-HQ-ES-2025-0039-10836",
+    "FWS-HQ-ES-2025-0039-10826",
+    "FWS-HQ-ES-2025-0039-10837"
+   ]
+  },
+  {
+   "tier": "T1-exact",
+   "size": 879,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 0.29,
+   "n_days": 16,
+   "ai_register_mean": 0.0,
+   "len_mean": 204,
+   "len_cv": 0.0,
+   "excerpt": "In the 51 years since its creation, the Endangered Species Act has saved 99% of the listed species from extinction. As a devoted supporter of America&rsquo;s wi",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-10015",
+    "FWS-HQ-ES-2025-0039-10031",
+    "FWS-HQ-ES-2025-0039-10190",
+    "FWS-HQ-ES-2025-0039-10185",
+    "FWS-HQ-ES-2025-0039-10200"
+   ]
+  },
+  {
+   "tier": "T1-exact",
+   "size": 551,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 1.0,
+   "n_days": 1,
+   "ai_register_mean": 0.0,
+   "len_mean": 150,
+   "len_cv": 0.0,
+   "excerpt": "As a Catholic, my faith calls me to care for our common home because God&#39;s great creation requires our honor and reverence, and the created world is what su",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-27995",
+    "FWS-HQ-ES-2025-0039-27979",
+    "FWS-HQ-ES-2025-0039-27991",
+    "FWS-HQ-ES-2025-0039-28001",
+    "FWS-HQ-ES-2025-0039-28005"
+   ]
+  },
+  {
+   "tier": "T1-exact",
+   "size": 339,
+   "peak_day": "2025-12-18",
+   "peak_day_share": 0.43,
+   "n_days": 12,
+   "ai_register_mean": 6.5,
+   "len_mean": 143,
+   "len_cv": 0.0,
+   "excerpt": "In the 51 years since its creation, the Endangered Species Act has saved 99% of the listed species from extinction. As a devoted supporter of America&rsquo;s wi",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-10018",
+    "FWS-HQ-ES-2025-0039-10201",
+    "FWS-HQ-ES-2025-0039-18506",
+    "FWS-HQ-ES-2025-0039-18840",
+    "FWS-HQ-ES-2025-0039-18856"
+   ]
+  },
+  {
+   "tier": "T1-exact",
+   "size": 305,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 0.5,
+   "n_days": 14,
+   "ai_register_mean": 2.8,
+   "len_mean": 335,
+   "len_cv": 0.0,
+   "excerpt": "I&rsquo;m writing to express my strong opposition to the proposed revisions to the regulations governing species listing and critical habitat designation under ",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-10014",
+    "FWS-HQ-ES-2025-0039-10029",
+    "FWS-HQ-ES-2025-0039-10017",
+    "FWS-HQ-ES-2025-0039-10067",
+    "FWS-HQ-ES-2025-0039-10139"
+   ]
+  },
+  {
+   "tier": "T1-exact",
+   "size": 191,
+   "peak_day": "2025-12-18",
+   "peak_day_share": 0.44,
+   "n_days": 12,
+   "ai_register_mean": 4.1,
+   "len_mean": 224,
+   "len_cv": 0.0,
+   "excerpt": "In the 51 years since its creation, the Endangered Species Act has saved 99% of the listed species from extinction. As a devoted supporter of America&rsquo;s wi",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-18847",
+    "FWS-HQ-ES-2025-0039-18874",
+    "FWS-HQ-ES-2025-0039-19693",
+    "FWS-HQ-ES-2025-0039-20772",
+    "FWS-HQ-ES-2025-0039-21368"
+   ]
+  },
+  {
+   "tier": "T1-exact",
+   "size": 143,
+   "peak_day": "2025-11-25",
+   "peak_day_share": 0.25,
+   "n_days": 13,
+   "ai_register_mean": 0.0,
+   "len_mean": 72,
+   "len_cv": 0.0,
+   "excerpt": "I&rsquo;m writing to ask our government to\u202foppose\u202fany efforts to weaken the Endangered Species Act. This landmark law has protected Hawaiian monk seals, Guadalu",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-0226",
+    "FWS-HQ-ES-2025-0039-0227",
+    "FWS-HQ-ES-2025-0039-0228",
+    "FWS-HQ-ES-2025-0039-0235",
+    "FWS-HQ-ES-2025-0039-0222"
+   ]
+  },
+  {
+   "tier": "T1-exact",
+   "size": 141,
+   "peak_day": "2025-12-08",
+   "peak_day_share": 0.77,
+   "n_days": 9,
+   "ai_register_mean": 1.7,
+   "len_mean": 543,
+   "len_cv": 0.0,
+   "excerpt": "Last month, the Trump administration proposed revisions to four rules implementing the Endangered Species Act (ESA) that will severely weaken endangered species",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-10000",
+    "FWS-HQ-ES-2025-0039-10023",
+    "FWS-HQ-ES-2025-0039-10024",
+    "FWS-HQ-ES-2025-0039-10036",
+    "FWS-HQ-ES-2025-0039-10062"
+   ]
+  },
+  {
+   "tier": "T1-exact",
+   "size": 107,
+   "peak_day": "2025-12-18",
+   "peak_day_share": 0.51,
+   "n_days": 5,
+   "ai_register_mean": 0.0,
+   "len_mean": 208,
+   "len_cv": 0.0,
+   "excerpt": "In the 51 years since its creation, the Endangered Species Act has saved 99% of the listed species from extinction. As a devoted supporter of America&rsquo;s wi",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-20743",
+    "FWS-HQ-ES-2025-0039-22080",
+    "FWS-HQ-ES-2025-0039-22221",
+    "FWS-HQ-ES-2025-0039-22240",
+    "FWS-HQ-ES-2025-0039-22396"
+   ]
+  },
+  {
+   "tier": "T1-exact",
+   "size": 97,
+   "peak_day": "2025-12-18",
+   "peak_day_share": 0.45,
+   "n_days": 5,
+   "ai_register_mean": 2.2,
+   "len_mean": 426,
+   "len_cv": 0.0,
+   "excerpt": "Dear U.S. Fish and Wildlife Service and National Oceanic and Atmospheric Administration, <br/><br/>Since its bipartisan passage in 1973, the Endangered Species ",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-22190",
+    "FWS-HQ-ES-2025-0039-22248",
+    "FWS-HQ-ES-2025-0039-22271",
+    "FWS-HQ-ES-2025-0039-22285",
+    "FWS-HQ-ES-2025-0039-22275"
+   ]
+  },
+  {
+   "tier": "T1-exact",
+   "size": 95,
+   "peak_day": "2025-12-10",
+   "peak_day_share": 0.46,
+   "n_days": 8,
+   "ai_register_mean": 7.5,
+   "len_mean": 96,
+   "len_cv": 0.0,
+   "excerpt": "I strongly oppose the proposed rule changes to the Endangered Species Act, as outlined in the following docket numbers:<br/>FWS&ndash;HQ&ndash;ES&ndash;2025&nda",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-17700",
+    "FWS-HQ-ES-2025-0039-17710",
+    "FWS-HQ-ES-2025-0039-17723",
+    "FWS-HQ-ES-2025-0039-17724",
+    "FWS-HQ-ES-2025-0039-17727"
+   ]
+  },
+  {
+   "tier": "T1-exact",
+   "size": 78,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 0.46,
+   "n_days": 10,
+   "ai_register_mean": 2.8,
+   "len_mean": 336,
+   "len_cv": 0.0,
+   "excerpt": "I&rsquo;m writing to express my strong opposition to the proposed revisions to the regulations governing species listing and critical habitat designation under ",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-10134",
+    "FWS-HQ-ES-2025-0039-10429",
+    "FWS-HQ-ES-2025-0039-10450",
+    "FWS-HQ-ES-2025-0039-10536",
+    "FWS-HQ-ES-2025-0039-10671"
+   ]
+  },
+  {
+   "tier": "T1-exact",
+   "size": 77,
+   "peak_day": "2025-12-08",
+   "peak_day_share": 0.44,
+   "n_days": 9,
+   "ai_register_mean": 0.0,
+   "len_mean": 202,
+   "len_cv": 0.0,
+   "excerpt": "I oppose this proposal to rewrite Endangered Species Act rules, and I urge you to withdraw it. This proposal would reverse a longstanding rule prohibiting consi",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-10011",
+    "FWS-HQ-ES-2025-0039-10035",
+    "FWS-HQ-ES-2025-0039-10054",
+    "FWS-HQ-ES-2025-0039-10372",
+    "FWS-HQ-ES-2025-0039-10362"
+   ]
+  },
+  {
+   "tier": "T1-exact",
+   "size": 65,
+   "peak_day": "2025-12-08",
+   "peak_day_share": 0.51,
+   "n_days": 9,
+   "ai_register_mean": 0.0,
+   "len_mean": 123,
+   "len_cv": 0.0,
+   "excerpt": "As an environmentally conscious citizen and lover of wildlife, I urge you to exclude economics from listing, delisting, and critical habitat determinations. The",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-10008",
+    "FWS-HQ-ES-2025-0039-10080",
+    "FWS-HQ-ES-2025-0039-10094",
+    "FWS-HQ-ES-2025-0039-10148",
+    "FWS-HQ-ES-2025-0039-10274"
+   ]
+  },
+  {
+   "tier": "T1-exact",
+   "size": 56,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 0.34,
+   "n_days": 13,
+   "ai_register_mean": 0.0,
+   "len_mean": 204,
+   "len_cv": 0.0,
+   "excerpt": "In the 51 years since its creation, the Endangered Species Act has saved 99% of the listed species from extinction. As a devoted supporter of America&rsquo;s wi",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-10317",
+    "FWS-HQ-ES-2025-0039-17053",
+    "FWS-HQ-ES-2025-0039-17833",
+    "FWS-HQ-ES-2025-0039-18795",
+    "FWS-HQ-ES-2025-0039-18901"
+   ]
+  },
+  {
+   "tier": "T1-exact",
+   "size": 55,
+   "peak_day": "2025-12-09",
+   "peak_day_share": 0.4,
+   "n_days": 9,
+   "ai_register_mean": 0.0,
+   "len_mean": 203,
+   "len_cv": 0.0,
+   "excerpt": "I strongly oppose this proposal to rewrite Endangered Species Act rules, and I urge you to withdraw it. This proposal would reverse a longstanding rule prohibit",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-0441",
+    "FWS-HQ-ES-2025-0039-0438",
+    "FWS-HQ-ES-2025-0039-0619",
+    "FWS-HQ-ES-2025-0039-0872",
+    "FWS-HQ-ES-2025-0039-12066"
+   ]
+  },
+  {
+   "tier": "T1-exact",
+   "size": 49,
+   "peak_day": "2025-12-08",
+   "peak_day_share": 0.84,
+   "n_days": 6,
+   "ai_register_mean": 0.0,
+   "len_mean": 266,
+   "len_cv": 0.0,
+   "excerpt": "I strongly oppose the current proposal to revise 50 Code of Federal Regulations, Part 424 on the listing of<br/>endangered and threatened species and designatin",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-10020",
+    "FWS-HQ-ES-2025-0039-10045",
+    "FWS-HQ-ES-2025-0039-10101",
+    "FWS-HQ-ES-2025-0039-10144",
+    "FWS-HQ-ES-2025-0039-10155"
+   ]
+  },
+  {
+   "tier": "T1-exact",
+   "size": 45,
+   "peak_day": "2025-12-08",
+   "peak_day_share": 0.67,
+   "n_days": 6,
+   "ai_register_mean": 2.3,
+   "len_mean": 418,
+   "len_cv": 0.0,
+   "excerpt": "Last month, the Trump administration proposed revisions to four rules implementing the Endangered Species Act (ESA) that will severely weaken endangered species",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-10034",
+    "FWS-HQ-ES-2025-0039-10043",
+    "FWS-HQ-ES-2025-0039-10071",
+    "FWS-HQ-ES-2025-0039-10099",
+    "FWS-HQ-ES-2025-0039-10146"
+   ]
+  },
+  {
+   "tier": "T1-exact",
+   "size": 39,
+   "peak_day": "2025-12-18",
+   "peak_day_share": 0.26,
+   "n_days": 6,
+   "ai_register_mean": 6.5,
+   "len_mean": 143,
+   "len_cv": 0.0,
+   "excerpt": "I urge you to withdraw this proposal. Endangered Species Act listings must be guided by science and prohibit economic considerations. Federal agencies should no",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-10055",
+    "FWS-HQ-ES-2025-0039-10239",
+    "FWS-HQ-ES-2025-0039-10513",
+    "FWS-HQ-ES-2025-0039-17159",
+    "FWS-HQ-ES-2025-0039-17251"
+   ]
+  }
+ ],
+ "t2": [
+  {
+   "tier": "T2-template",
+   "size": 583,
+   "peak_day": "2025-12-10",
+   "peak_day_share": 0.36,
+   "n_days": 11,
+   "ai_register_mean": 7.2,
+   "len_mean": 102,
+   "len_cv": 0.14,
+   "excerpt": "I strongly oppose the proposed rule changes to the Endangered Species Act, as outlined in the following docket numbers:<br/>FWS&ndash;HQ&ndash;ES&ndash;2025&nda",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-16761",
+    "FWS-HQ-ES-2025-0039-16973",
+    "FWS-HQ-ES-2025-0039-17539",
+    "FWS-HQ-ES-2025-0039-17700",
+    "FWS-HQ-ES-2025-0039-17703"
+   ]
+  },
+  {
+   "tier": "T2-template",
+   "size": 532,
+   "peak_day": "2025-12-09",
+   "peak_day_share": 0.32,
+   "n_days": 19,
+   "ai_register_mean": 0.2,
+   "len_mean": 212,
+   "len_cv": 0.2,
+   "excerpt": "I oppose this proposal to rewrite Endangered Species Act rules, and I urge you to withdraw it. This proposal would reverse a longstanding rule prohibiting consi",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-0405",
+    "FWS-HQ-ES-2025-0039-0411",
+    "FWS-HQ-ES-2025-0039-0441",
+    "FWS-HQ-ES-2025-0039-0478",
+    "FWS-HQ-ES-2025-0039-0505"
+   ]
+  },
+  {
+   "tier": "T2-template",
+   "size": 492,
+   "peak_day": "2025-12-18",
+   "peak_day_share": 0.38,
+   "n_days": 14,
+   "ai_register_mean": 2.8,
+   "len_mean": 200,
+   "len_cv": 0.37,
+   "excerpt": "In the 51 years since its creation, the Endangered Species Act has saved 99% of the listed species from extinction. As a devoted supporter of America&rsquo;s wi",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-10015",
+    "FWS-HQ-ES-2025-0039-10018",
+    "FWS-HQ-ES-2025-0039-10033",
+    "FWS-HQ-ES-2025-0039-10308",
+    "FWS-HQ-ES-2025-0039-10317"
+   ]
+  },
+  {
+   "tier": "T2-template",
+   "size": 199,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 1.0,
+   "n_days": 1,
+   "ai_register_mean": 0.1,
+   "len_mean": 185,
+   "len_cv": 0.14,
+   "excerpt": "As a Catholic, my faith calls me to care for our common home because God&#39;s great creation requires our honor and reverence, and the created world is what su",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-27995",
+    "FWS-HQ-ES-2025-0039-28065",
+    "FWS-HQ-ES-2025-0039-28093",
+    "FWS-HQ-ES-2025-0039-28104",
+    "FWS-HQ-ES-2025-0039-28168"
+   ]
+  },
+  {
+   "tier": "T2-template",
+   "size": 161,
+   "peak_day": "2025-12-08",
+   "peak_day_share": 0.55,
+   "n_days": 13,
+   "ai_register_mean": 4.4,
+   "len_mean": 323,
+   "len_cv": 0.58,
+   "excerpt": "Last month, the Trump administration proposed revisions to four rules implementing the Endangered Species Act (ESA) that will severely weaken endangered species",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-10000",
+    "FWS-HQ-ES-2025-0039-10034",
+    "FWS-HQ-ES-2025-0039-10005",
+    "FWS-HQ-ES-2025-0039-10052",
+    "FWS-HQ-ES-2025-0039-10055"
+   ]
+  },
+  {
+   "tier": "T2-template",
+   "size": 159,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 0.45,
+   "n_days": 13,
+   "ai_register_mean": 2.6,
+   "len_mean": 346,
+   "len_cv": 0.23,
+   "excerpt": "I&rsquo;m writing to express my strong opposition to the proposed revisions to the regulations governing species listing and critical habitat designation under ",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-10014",
+    "FWS-HQ-ES-2025-0039-10097",
+    "FWS-HQ-ES-2025-0039-10134",
+    "FWS-HQ-ES-2025-0039-10227",
+    "FWS-HQ-ES-2025-0039-10446"
+   ]
+  },
+  {
+   "tier": "T2-template",
+   "size": 96,
+   "peak_day": "2025-12-08",
+   "peak_day_share": 0.78,
+   "n_days": 9,
+   "ai_register_mean": 0.0,
+   "len_mean": 286,
+   "len_cv": 0.11,
+   "excerpt": "I strongly oppose the current proposal to revise 50 Code of Federal Regulations, Part 424, on the listing of <br/>endangered and threatened species and designat",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-10006",
+    "FWS-HQ-ES-2025-0039-10002",
+    "FWS-HQ-ES-2025-0039-10001",
+    "FWS-HQ-ES-2025-0039-10020",
+    "FWS-HQ-ES-2025-0039-10010"
+   ]
+  },
+  {
+   "tier": "T2-template",
+   "size": 78,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 0.49,
+   "n_days": 7,
+   "ai_register_mean": 0.5,
+   "len_mean": 104,
+   "len_cv": 0.36,
+   "excerpt": "Please do right by the animals, today, and for tomorrow. The ESA requires using the best scientific and commercial data available; weakening listing criteria un",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-16324",
+    "FWS-HQ-ES-2025-0039-16516",
+    "FWS-HQ-ES-2025-0039-16654",
+    "FWS-HQ-ES-2025-0039-16634",
+    "FWS-HQ-ES-2025-0039-16724"
+   ]
+  },
+  {
+   "tier": "T2-template",
+   "size": 75,
+   "peak_day": "2025-11-24",
+   "peak_day_share": 0.25,
+   "n_days": 11,
+   "ai_register_mean": 0.4,
+   "len_mean": 82,
+   "len_cv": 0.21,
+   "excerpt": "I&rsquo;m writing to ask our government to oppose any efforts to weaken the Endangered Species Act. This landmark law has protected Hawaiian monk seals, Guadalu",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-0219",
+    "FWS-HQ-ES-2025-0039-0225",
+    "FWS-HQ-ES-2025-0039-0226",
+    "FWS-HQ-ES-2025-0039-0230",
+    "FWS-HQ-ES-2025-0039-0220"
+   ]
+  },
+  {
+   "tier": "T2-template",
+   "size": 59,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 0.47,
+   "n_days": 11,
+   "ai_register_mean": 3.3,
+   "len_mean": 571,
+   "len_cv": 0.1,
+   "excerpt": "I strongly oppose the proposed changes to the Endangered Species Act, which would undermine the law&#39;s original intent and expose threatened and endangered w",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-10832",
+    "FWS-HQ-ES-2025-0039-13106",
+    "FWS-HQ-ES-2025-0039-17184",
+    "FWS-HQ-ES-2025-0039-18999",
+    "FWS-HQ-ES-2025-0039-19086"
+   ]
+  },
+  {
+   "tier": "T2-template",
+   "size": 50,
+   "peak_day": "2025-12-18",
+   "peak_day_share": 0.44,
+   "n_days": 4,
+   "ai_register_mean": 0.3,
+   "len_mean": 133,
+   "len_cv": 0.22,
+   "excerpt": "&quot;For over fifty years, the Endangered Species Act (ESA) has played a major role in protecting wildlife, preventing nearly 99% of listed species from becomi",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-22460",
+    "FWS-HQ-ES-2025-0039-23111",
+    "FWS-HQ-ES-2025-0039-23109",
+    "FWS-HQ-ES-2025-0039-23255",
+    "FWS-HQ-ES-2025-0039-23289"
+   ]
+  },
+  {
+   "tier": "T2-template",
+   "size": 47,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 0.47,
+   "n_days": 7,
+   "ai_register_mean": 0.2,
+   "len_mean": 91,
+   "len_cv": 0.29,
+   "excerpt": "I urge you to withdraw the proposed rule change regarding de-listing. <br/><br/>This proposal would make it easier to de-list species for political and economic",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-19568",
+    "FWS-HQ-ES-2025-0039-21022",
+    "FWS-HQ-ES-2025-0039-21212",
+    "FWS-HQ-ES-2025-0039-21358",
+    "FWS-HQ-ES-2025-0039-21325"
+   ]
+  },
+  {
+   "tier": "T2-template",
+   "size": 47,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 0.38,
+   "n_days": 7,
+   "ai_register_mean": 2.9,
+   "len_mean": 326,
+   "len_cv": 0.12,
+   "excerpt": "I&rsquo;m writing to oppose key adverse changes to Endangered Species Act rules that would reduce protections for wildlife facing extinction. I care deeply for ",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-21063",
+    "FWS-HQ-ES-2025-0039-21254",
+    "FWS-HQ-ES-2025-0039-21705",
+    "FWS-HQ-ES-2025-0039-21709",
+    "FWS-HQ-ES-2025-0039-21714"
+   ]
+  },
+  {
+   "tier": "T2-template",
+   "size": 41,
+   "peak_day": "2025-11-24",
+   "peak_day_share": 0.22,
+   "n_days": 12,
+   "ai_register_mean": 0.3,
+   "len_mean": 109,
+   "len_cv": 0.21,
+   "excerpt": "I am writing to express my staunch opposition to this proposal.  Please consider the following:<br/><br/>Altering portions of Section 4 of the Endangered Specie",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-0040",
+    "FWS-HQ-ES-2025-0039-0064",
+    "FWS-HQ-ES-2025-0039-0078",
+    "FWS-HQ-ES-2025-0039-0017",
+    "FWS-HQ-ES-2025-0039-0094"
+   ]
+  },
+  {
+   "tier": "T2-template",
+   "size": 32,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 0.44,
+   "n_days": 7,
+   "ai_register_mean": 4.2,
+   "len_mean": 415,
+   "len_cv": 0.08,
+   "excerpt": "Dear Secretary Burgum and Secretary Lutnick:<br/><br/>Out of grave concern for manatees, I urge you to withdraw the following proposed regulations under the End",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-18841",
+    "FWS-HQ-ES-2025-0039-18884",
+    "FWS-HQ-ES-2025-0039-18875",
+    "FWS-HQ-ES-2025-0039-18909",
+    "FWS-HQ-ES-2025-0039-18963"
+   ]
+  },
+  {
+   "tier": "T2-template",
+   "size": 29,
+   "peak_day": "2025-12-08",
+   "peak_day_share": 0.79,
+   "n_days": 7,
+   "ai_register_mean": 0.2,
+   "len_mean": 212,
+   "len_cv": 0.31,
+   "excerpt": "In a blatant attempt to weaken the rule of law, the Administration has proposed several&nbsp;changes to the Endangered Species Act (ESA) that, if passed, would ",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-10032",
+    "FWS-HQ-ES-2025-0039-10096",
+    "FWS-HQ-ES-2025-0039-10100",
+    "FWS-HQ-ES-2025-0039-10129",
+    "FWS-HQ-ES-2025-0039-10120"
+   ]
+  },
+  {
+   "tier": "T2-template",
+   "size": 28,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 0.54,
+   "n_days": 8,
+   "ai_register_mean": 0.1,
+   "len_mean": 282,
+   "len_cv": 0.3,
+   "excerpt": "* I am submitting this comment because biodiversity and healthy ecosystems matter deeply to me.<br/>* As someone who lives in North Carolina and regularly sees ",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-0073",
+    "FWS-HQ-ES-2025-0039-0060",
+    "FWS-HQ-ES-2025-0039-0245",
+    "FWS-HQ-ES-2025-0039-19669",
+    "FWS-HQ-ES-2025-0039-29182"
+   ]
+  },
+  {
+   "tier": "T2-template",
+   "size": 21,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 0.57,
+   "n_days": 5,
+   "ai_register_mean": 0.0,
+   "len_mean": 205,
+   "len_cv": 0.05,
+   "excerpt": "I am currently an undergraduate student studying wildlife science with a minor in marine science. I&rsquo;ve spent my life learning and appreciating all the bio",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-10178",
+    "FWS-HQ-ES-2025-0039-10815",
+    "FWS-HQ-ES-2025-0039-17689",
+    "FWS-HQ-ES-2025-0039-17685",
+    "FWS-HQ-ES-2025-0039-17683"
+   ]
+  },
+  {
+   "tier": "T2-template",
+   "size": 17,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 0.47,
+   "n_days": 6,
+   "ai_register_mean": 0.0,
+   "len_mean": 45,
+   "len_cv": 0.24,
+   "excerpt": "I respectfully urge the Administration to withdraw this proposed rule and recommit to the ESA&rsquo;s original objective: conserving endangered species and the ",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-14912",
+    "FWS-HQ-ES-2025-0039-16740",
+    "FWS-HQ-ES-2025-0039-22263",
+    "FWS-HQ-ES-2025-0039-22997",
+    "FWS-HQ-ES-2025-0039-23579"
+   ]
+  },
+  {
+   "tier": "T2-template",
+   "size": 17,
+   "peak_day": "2025-12-16",
+   "peak_day_share": 0.35,
+   "n_days": 5,
+   "ai_register_mean": 3.8,
+   "len_mean": 291,
+   "len_cv": 0.13,
+   "excerpt": "To whomever it may concern,<br/><br/>I am writing to express my strong support for the Endangered Species Act (ESA) and to urge you to maintain its protections ",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-18822",
+    "FWS-HQ-ES-2025-0039-19063",
+    "FWS-HQ-ES-2025-0039-19255",
+    "FWS-HQ-ES-2025-0039-19355",
+    "FWS-HQ-ES-2025-0039-19450"
+   ]
+  }
+ ],
+ "t3": [
+  {
+   "tier": "T3-paraphrase",
+   "size": 540,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 0.18,
+   "n_days": 20,
+   "ai_register_mean": 1.6,
+   "len_mean": 229,
+   "len_cv": 0.53,
+   "excerpt": "This rule along with<br/>FWS&ndash;HQ&ndash;ES&ndash;2025&ndash;0044 (Section 7)<br/>FWS&ndash;HQ&ndash;ES&ndash;2025&ndash;0029 (Section 4(d))<br/>FWS&ndash;HQ",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-0116",
+    "FWS-HQ-ES-2025-0039-0151",
+    "FWS-HQ-ES-2025-0039-0150",
+    "FWS-HQ-ES-2025-0039-0149",
+    "FWS-HQ-ES-2025-0039-0157"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 59,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 0.29,
+   "n_days": 10,
+   "ai_register_mean": 4.4,
+   "len_mean": 248,
+   "len_cv": 0.43,
+   "excerpt": "I&#39;m writing to firmly oppose the proposed changes to the regulations for species listing and critical habitat designation under the Endangered Species Act (",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-10843",
+    "FWS-HQ-ES-2025-0039-14301",
+    "FWS-HQ-ES-2025-0039-14687",
+    "FWS-HQ-ES-2025-0039-14855",
+    "FWS-HQ-ES-2025-0039-15724"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 46,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 0.46,
+   "n_days": 11,
+   "ai_register_mean": 0.7,
+   "len_mean": 248,
+   "len_cv": 0.5,
+   "excerpt": "I am submitting this comment because biodiversity and healthy ecosystems matter deeply to the health of not only our planet and the animals we share it with, bu",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-0071",
+    "FWS-HQ-ES-2025-0039-0067",
+    "FWS-HQ-ES-2025-0039-0101",
+    "FWS-HQ-ES-2025-0039-10842",
+    "FWS-HQ-ES-2025-0039-10915"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 28,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 0.39,
+   "n_days": 6,
+   "ai_register_mean": 4.2,
+   "len_mean": 120,
+   "len_cv": 0.5,
+   "excerpt": "I urge you to withdraw the proposed rule change regarding delisting. This proposal would make it easier to delist species for political and economic reasons. Th",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-21222",
+    "FWS-HQ-ES-2025-0039-21295",
+    "FWS-HQ-ES-2025-0039-21682",
+    "FWS-HQ-ES-2025-0039-22052",
+    "FWS-HQ-ES-2025-0039-22493"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 17,
+   "peak_day": "2025-12-08",
+   "peak_day_share": 0.76,
+   "n_days": 3,
+   "ai_register_mean": 0.0,
+   "len_mean": 107,
+   "len_cv": 0.93,
+   "excerpt": "Economic interests should not play a role in whether to retain protections for endangered species. Nor should the definition of &ldquo;critical habitat&rdquo; b",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-10060",
+    "FWS-HQ-ES-2025-0039-10091",
+    "FWS-HQ-ES-2025-0039-10125",
+    "FWS-HQ-ES-2025-0039-10165",
+    "FWS-HQ-ES-2025-0039-10207"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 13,
+   "peak_day": "2025-11-24",
+   "peak_day_share": 0.23,
+   "n_days": 7,
+   "ai_register_mean": 2.5,
+   "len_mean": 160,
+   "len_cv": 0.78,
+   "excerpt": "Under the proposed rules changes would make it easier to delist and harder to relist Gray Wolves opening the door to increased vulnerability and fragile populat",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-0045",
+    "FWS-HQ-ES-2025-0039-0062",
+    "FWS-HQ-ES-2025-0039-0076",
+    "FWS-HQ-ES-2025-0039-19001",
+    "FWS-HQ-ES-2025-0039-29389"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 13,
+   "peak_day": "2025-12-15",
+   "peak_day_share": 0.31,
+   "n_days": 5,
+   "ai_register_mean": 0.0,
+   "len_mean": 97,
+   "len_cv": 0.39,
+   "excerpt": "Here&rsquo;s a polished rephrasing with the same meaning and tone:<br/><br/>I&rsquo;m writing to urge our government to oppose any attempts to weaken the Endang",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-0229",
+    "FWS-HQ-ES-2025-0039-0303",
+    "FWS-HQ-ES-2025-0039-0831",
+    "FWS-HQ-ES-2025-0039-19973",
+    "FWS-HQ-ES-2025-0039-20569"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 13,
+   "peak_day": "2025-12-08",
+   "peak_day_share": 0.46,
+   "n_days": 7,
+   "ai_register_mean": 1.5,
+   "len_mean": 235,
+   "len_cv": 0.66,
+   "excerpt": "Last month, the Trump administration proposed revisions to four rules implementing the Endangered Species Act (ESA). These changes would significantly weaken pr",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-10395",
+    "FWS-HQ-ES-2025-0039-10558",
+    "FWS-HQ-ES-2025-0039-10613",
+    "FWS-HQ-ES-2025-0039-10634",
+    "FWS-HQ-ES-2025-0039-10668"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 9,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 0.44,
+   "n_days": 6,
+   "ai_register_mean": 7.2,
+   "len_mean": 82,
+   "len_cv": 0.57,
+   "excerpt": "I do not support narrowing the definition of critical habitat to exclude currently unoccupied but historic habitat. Historic habitats are vital for recovery of ",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-0065",
+    "FWS-HQ-ES-2025-0039-10261",
+    "FWS-HQ-ES-2025-0039-26364",
+    "FWS-HQ-ES-2025-0039-28542",
+    "FWS-HQ-ES-2025-0039-32322"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 9,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 0.44,
+   "n_days": 3,
+   "ai_register_mean": 4.3,
+   "len_mean": 22,
+   "len_cv": 0.18,
+   "excerpt": "The ESA is a bedrock act that has saved many of the best parts of America. Please don&#39;t get rid of it.",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-24755",
+    "FWS-HQ-ES-2025-0039-25433",
+    "FWS-HQ-ES-2025-0039-26741",
+    "FWS-HQ-ES-2025-0039-27276",
+    "FWS-HQ-ES-2025-0039-27373"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 8,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 0.62,
+   "n_days": 3,
+   "ai_register_mean": 1.4,
+   "len_mean": 396,
+   "len_cv": 0.47,
+   "excerpt": "Public Comment Opposing Proposed Revisions to ESA Section 4 Regulations<br/><br/>I respectfully submit this public comment in opposition to the proposed changes",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-25853",
+    "FWS-HQ-ES-2025-0039-26371",
+    "FWS-HQ-ES-2025-0039-27030",
+    "FWS-HQ-ES-2025-0039-28838",
+    "FWS-HQ-ES-2025-0039-31842"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 6,
+   "peak_day": "2025-12-08",
+   "peak_day_share": 0.67,
+   "n_days": 3,
+   "ai_register_mean": 0.0,
+   "len_mean": 68,
+   "len_cv": 0.57,
+   "excerpt": "I believe that the proposed changes to the Fish and Wildlife Services are dangerous and would corrupt science-based decision-making.  Since these proposed chang",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-10012",
+    "FWS-HQ-ES-2025-0039-12260",
+    "FWS-HQ-ES-2025-0039-21942",
+    "FWS-HQ-ES-2025-0039-9304",
+    "FWS-HQ-ES-2025-0039-9536"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 6,
+   "peak_day": "2025-12-15",
+   "peak_day_share": 0.83,
+   "n_days": 2,
+   "ai_register_mean": 0.0,
+   "len_mean": 21,
+   "len_cv": 0.18,
+   "excerpt": "I oppose the rollback of the Endangered Species Act and am urging strong, science-based protections for vulnerable wildlife.<br/><br/>Thank you.",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-19461",
+    "FWS-HQ-ES-2025-0039-19558",
+    "FWS-HQ-ES-2025-0039-19788",
+    "FWS-HQ-ES-2025-0039-20159",
+    "FWS-HQ-ES-2025-0039-20164"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 6,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 0.83,
+   "n_days": 2,
+   "ai_register_mean": 0.0,
+   "len_mean": 58,
+   "len_cv": 0.95,
+   "excerpt": "Allowing economic considerations in listing decisions: <br/>DO NOT REMOVE LANGUAGE requiring ESA listings to be made &ldquo;without reference to economic or oth",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-30508",
+    "FWS-HQ-ES-2025-0039-31684",
+    "FWS-HQ-ES-2025-0039-32400",
+    "FWS-HQ-ES-2025-0039-32745",
+    "FWS-HQ-ES-2025-0039-34691"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 5,
+   "peak_day": "2025-12-02",
+   "peak_day_share": 0.4,
+   "n_days": 4,
+   "ai_register_mean": 0.0,
+   "len_mean": 33,
+   "len_cv": 0.56,
+   "excerpt": "As a member of the public, l oppose weakening protections for all threatened species. These changes to the law would harm recovery efforts, reduce biodiversity,",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-0145",
+    "FWS-HQ-ES-2025-0039-34069",
+    "FWS-HQ-ES-2025-0039-7415",
+    "FWS-HQ-ES-2025-0039-7422",
+    "FWS-HQ-ES-2025-0039-7833"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 5,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 0.8,
+   "n_days": 2,
+   "ai_register_mean": 4.6,
+   "len_mean": 95,
+   "len_cv": 0.25,
+   "excerpt": "I oppose the proposed rule (Docket No. FWS&ndash;HQ&ndash;ES&ndash;2025-0044) concerning interagency cooperation under Section 7 of the Endangered Species Act. ",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-29223",
+    "FWS-HQ-ES-2025-0039-32830",
+    "FWS-HQ-ES-2025-0039-32862",
+    "FWS-HQ-ES-2025-0039-32871",
+    "FWS-HQ-ES-2025-0039-8454"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 5,
+   "peak_day": "2025-12-16",
+   "peak_day_share": 0.4,
+   "n_days": 4,
+   "ai_register_mean": 2.1,
+   "len_mean": 70,
+   "len_cv": 0.72,
+   "excerpt": "The proposed changes to ESA listing criteria and critical habitat rules would make it harder to list species and protect the habitat they need to survive and re",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-21712",
+    "FWS-HQ-ES-2025-0039-21852",
+    "FWS-HQ-ES-2025-0039-21867",
+    "FWS-HQ-ES-2025-0039-26291",
+    "FWS-HQ-ES-2025-0039-34650"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 5,
+   "peak_day": "2025-12-16",
+   "peak_day_share": 0.2,
+   "n_days": 5,
+   "ai_register_mean": 3.6,
+   "len_mean": 35,
+   "len_cv": 0.36,
+   "excerpt": "Keep the all of the 2024 Endangered Species Act wording including the phrase &ldquo;without reference to possible economic or other impacts of such determinatio",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-21758",
+    "FWS-HQ-ES-2025-0039-23375",
+    "FWS-HQ-ES-2025-0039-27157",
+    "FWS-HQ-ES-2025-0039-32860",
+    "FWS-HQ-ES-2025-0039-35108"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 5,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 0.8,
+   "n_days": 2,
+   "ai_register_mean": 0.0,
+   "len_mean": 85,
+   "len_cv": 0.66,
+   "excerpt": "I strongly oppose the proposed changes to the Endangered Species Act that would weaken protections for threatened and endangered species and the habitats they d",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-33991",
+    "FWS-HQ-ES-2025-0039-34014",
+    "FWS-HQ-ES-2025-0039-34045",
+    "FWS-HQ-ES-2025-0039-34433",
+    "FWS-HQ-ES-2025-0039-35114"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 4,
+   "peak_day": "2025-12-11",
+   "peak_day_share": 0.25,
+   "n_days": 4,
+   "ai_register_mean": 2.5,
+   "len_mean": 64,
+   "len_cv": 0.36,
+   "excerpt": "Long time Idaho resident and I do not support these change at all. Only when the last tree has been cut down, the last river poisoned, the last fish caught, wil",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-18467",
+    "FWS-HQ-ES-2025-0039-20572",
+    "FWS-HQ-ES-2025-0039-21136",
+    "FWS-HQ-ES-2025-0039-32807"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 4,
+   "peak_day": "2025-12-15",
+   "peak_day_share": 1.0,
+   "n_days": 1,
+   "ai_register_mean": 0.0,
+   "len_mean": 152,
+   "len_cv": 0.82,
+   "excerpt": "I am writing to oppose the proposed rolling back of key protections under the Endangered Species Act (ESA).  Conservation experts warn that these changes would ",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-19448",
+    "FWS-HQ-ES-2025-0039-19971",
+    "FWS-HQ-ES-2025-0039-20235",
+    "FWS-HQ-ES-2025-0039-20258"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 4,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 0.5,
+   "n_days": 3,
+   "ai_register_mean": 4.9,
+   "len_mean": 98,
+   "len_cv": 0.29,
+   "excerpt": "As a devoted supporter of America&rsquo;s wildlife, I urge you to withdraw this proposed rule change to rescind the &ldquo;blanket rule.&quot; We have a duty to",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-25612",
+    "FWS-HQ-ES-2025-0039-26488",
+    "FWS-HQ-ES-2025-0039-31770",
+    "FWS-HQ-ES-2025-0039-33609"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 4,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 1.0,
+   "n_days": 1,
+   "ai_register_mean": 1.6,
+   "len_mean": 364,
+   "len_cv": 0.19,
+   "excerpt": "I&#39;m not a stunning writer, so I will rely mainly on the very clear message of the USCCB and all those who care about where we live and the creatures that li",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-28418",
+    "FWS-HQ-ES-2025-0039-29830",
+    "FWS-HQ-ES-2025-0039-30809",
+    "FWS-HQ-ES-2025-0039-31273"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 4,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 1.0,
+   "n_days": 1,
+   "ai_register_mean": 2.8,
+   "len_mean": 144,
+   "len_cv": 0.17,
+   "excerpt": "I am submitting this comment because wolves and other endangered species are vital to the health of our ecosystems. The Mexican gray wolf and other imperiled wi",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-32381",
+    "FWS-HQ-ES-2025-0039-32404",
+    "FWS-HQ-ES-2025-0039-32396",
+    "FWS-HQ-ES-2025-0039-32503"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 3,
+   "peak_day": "2025-12-01",
+   "peak_day_share": 0.67,
+   "n_days": 2,
+   "ai_register_mean": 7.6,
+   "len_mean": 39,
+   "len_cv": 0.1,
+   "excerpt": "I am totally against the Trump Regime&#39;s intention to remove protections for endangered species in order to serve the oil &amp; gas, mining, and agriculture ",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-0177",
+    "FWS-HQ-ES-2025-0039-7319",
+    "FWS-HQ-ES-2025-0039-7337"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 3,
+   "peak_day": "2025-12-09",
+   "peak_day_share": 0.33,
+   "n_days": 3,
+   "ai_register_mean": 0.0,
+   "len_mean": 165,
+   "len_cv": 0.59,
+   "excerpt": "Subject: OPPOSITION to Proposed Revisions to ESA Regulations (Docket No. FWS-HQ-ES-2025-0039)<br/> <br/><br/>I am writing to strongly oppose the proposed change",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-16651",
+    "FWS-HQ-ES-2025-0039-21310",
+    "FWS-HQ-ES-2025-0039-9744"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 3,
+   "peak_day": "2025-12-18",
+   "peak_day_share": 0.33,
+   "n_days": 3,
+   "ai_register_mean": 4.5,
+   "len_mean": 57,
+   "len_cv": 0.35,
+   "excerpt": "I&rsquo;m writing to express my strong opposition to the proposed revisions to the regulations governing species listing and critical habitat designation under ",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-26174",
+    "FWS-HQ-ES-2025-0039-31647",
+    "FWS-HQ-ES-2025-0039-35310"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 3,
+   "peak_day": "2025-12-17",
+   "peak_day_share": 0.33,
+   "n_days": 3,
+   "ai_register_mean": 0.0,
+   "len_mean": 46,
+   "len_cv": 0.65,
+   "excerpt": "Do not water down the endangered species act! Why are you making it harder to designate wildlife as endangered?!?!",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-21886",
+    "FWS-HQ-ES-2025-0039-24954",
+    "FWS-HQ-ES-2025-0039-30908"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 3,
+   "peak_day": "2025-12-15",
+   "peak_day_share": 0.33,
+   "n_days": 3,
+   "ai_register_mean": 0.0,
+   "len_mean": 25,
+   "len_cv": 0.64,
+   "excerpt": "Against this all the way. Removing environmental protections will ruin us in the long run.",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-19544",
+    "FWS-HQ-ES-2025-0039-25835",
+    "FWS-HQ-ES-2025-0039-32386"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 3,
+   "peak_day": "2025-12-16",
+   "peak_day_share": 0.33,
+   "n_days": 3,
+   "ai_register_mean": 6.1,
+   "len_mean": 261,
+   "len_cv": 0.89,
+   "excerpt": "In a time when we are losing species at an alarming rate these proposed changes are unacceptable.  Everything trump does is for profit and instead of caring for",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-21794",
+    "FWS-HQ-ES-2025-0039-34346",
+    "FWS-HQ-ES-2025-0039-34895"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 3,
+   "peak_day": "2025-12-18",
+   "peak_day_share": 0.67,
+   "n_days": 2,
+   "ai_register_mean": 0.0,
+   "len_mean": 22,
+   "len_cv": 0.22,
+   "excerpt": "I DO NOT support this rule change. <br/><br/>I prefer the 2024 rule over the 2019 rule. <br/><br/>Thank you",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-20324",
+    "FWS-HQ-ES-2025-0039-24244",
+    "FWS-HQ-ES-2025-0039-26107"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 3,
+   "peak_day": "2025-12-18",
+   "peak_day_share": 0.33,
+   "n_days": 3,
+   "ai_register_mean": 0.0,
+   "len_mean": 76,
+   "len_cv": 0.46,
+   "excerpt": "The existing Act regulations concerning the procedures and criteria used for listing, reclassifying, and delisting species on the Lists of Endangered and Threat",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-25403",
+    "FWS-HQ-ES-2025-0039-34508",
+    "FWS-HQ-ES-2025-0039-35353"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 3,
+   "peak_day": "2025-12-18",
+   "peak_day_share": 0.67,
+   "n_days": 2,
+   "ai_register_mean": 1.1,
+   "len_mean": 219,
+   "len_cv": 0.27,
+   "excerpt": "I&rsquo;m writing to vehemently oppose key adverse changes to Endangered Species Act rules that would reduce protections for wildlife facing extinction. I care ",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-23704",
+    "FWS-HQ-ES-2025-0039-25725",
+    "FWS-HQ-ES-2025-0039-32949"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 3,
+   "peak_day": "2025-12-16",
+   "peak_day_share": 0.33,
+   "n_days": 3,
+   "ai_register_mean": 0.0,
+   "len_mean": 20,
+   "len_cv": 0.1,
+   "excerpt": "Oppose removing endangered species protection and removing wolf protection it will cause mass destruction to our communities and our environment and wilderness",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-21250",
+    "FWS-HQ-ES-2025-0039-7697",
+    "FWS-HQ-ES-2025-0039-9260"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 3,
+   "peak_day": "2025-12-16",
+   "peak_day_share": 0.33,
+   "n_days": 3,
+   "ai_register_mean": 0.0,
+   "len_mean": 87,
+   "len_cv": 0.24,
+   "excerpt": "oppose the suggested changes to the existing regulation and language. The ESA is effective <br/>because it is grounded in science and the interests of the publi",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-21554",
+    "FWS-HQ-ES-2025-0039-22490",
+    "FWS-HQ-ES-2025-0039-7883"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 3,
+   "peak_day": "2025-12-23",
+   "peak_day_share": 0.67,
+   "n_days": 2,
+   "ai_register_mean": 16.7,
+   "len_mean": 31,
+   "len_cv": 0.4,
+   "excerpt": "1. Keep the blanket rule preventing take for new threatened species.<br/><br/> 2. Keep critical habitat and don&#39;t allow economic considerations to replace s",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-22018",
+    "FWS-HQ-ES-2025-0039-34905",
+    "FWS-HQ-ES-2025-0039-35469"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 3,
+   "peak_day": "2025-12-18",
+   "peak_day_share": 0.67,
+   "n_days": 2,
+   "ai_register_mean": 1.0,
+   "len_mean": 218,
+   "len_cv": 0.43,
+   "excerpt": "I&#39;m writing to ask that Congress ensure that NO changes are made to the Endangered Species Act.<br/>One of the biggest changes is a proposal to remove the E",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-23107",
+    "FWS-HQ-ES-2025-0039-26405",
+    "FWS-HQ-ES-2025-0039-31298"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 3,
+   "peak_day": "2025-12-18",
+   "peak_day_share": 0.67,
+   "n_days": 2,
+   "ai_register_mean": 0.0,
+   "len_mean": 17,
+   "len_cv": 0.09,
+   "excerpt": "PLEASE PROTECT THE ANIMALS. I am a voter and this is an issue I care about.",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-23410",
+    "FWS-HQ-ES-2025-0039-24737",
+    "FWS-HQ-ES-2025-0039-27636"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 3,
+   "peak_day": "2025-12-22",
+   "peak_day_share": 1.0,
+   "n_days": 1,
+   "ai_register_mean": 2.5,
+   "len_mean": 373,
+   "len_cv": 0.03,
+   "excerpt": "As a conservation professional and one who has spent almost their entire life learning to protect endangered species, I am extremely disappointed and outraged t",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-29339",
+    "FWS-HQ-ES-2025-0039-29769",
+    "FWS-HQ-ES-2025-0039-32854"
+   ]
+  },
+  {
+   "tier": "T3-paraphrase",
+   "size": 3,
+   "peak_day": "2025-12-18",
+   "peak_day_share": 0.33,
+   "n_days": 3,
+   "ai_register_mean": 0.0,
+   "len_mean": 20,
+   "len_cv": 0.28,
+   "excerpt": "Please do not roll back or change regulations back to when they were in 2019. We need the protections as they are, or to improve upon them.",
+   "ids": [
+    "FWS-HQ-ES-2025-0039-26147",
+    "FWS-HQ-ES-2025-0039-31751",
+    "FWS-HQ-ES-2025-0039-6766"
+   ]
+  }
+ ]
+}

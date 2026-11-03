@@ -97,3 +97,31 @@ look; (c) scale to 10k+ comments shrinks the excludable effect further.
 This null is a finding: the democratic-input channel appears more
 AI-resistant than the scientific literature — or AI commenters write less
 floridly than AI paper-authors. Distinguishing those is the next experiment.
+
+## Forensic autopsy: FWS-HQ-ES-2025-0039 (ESA "harm definition" fight)
+
+Full-docket dissection of 33,737 text comments (35,714 records pulled from the
+mirror; attachment-only excluded) using the validated three-tier clusterer:
+
+| population | share | detail |
+|---|---|---|
+| exact-duplicate form letters | **68.0%** | 415 distinct letters; the single largest = **14,336 copies (42% of the whole docket)** |
+| template families (light edits) | **10.3%** | 207 families |
+| paraphrase rings (same skeleton, reworded) | **3.0%** | 115 rings; largest = 540 members spanning 20 days |
+| apparent organic individuals | **18.6%** | 6,285 comments |
+
+**Four out of five "public voices" on this rule are mass-produced campaign
+mail.** One form letter alone outweighs every individually-written comment
+combined. A 551-copy religious-themed letter landed 100% on a single day — a
+coordinated batch dump.
+
+**And the AI verdict: the flood is human-made.** Docket-wide AI-register
+suspect rate is 7.6% — *below* the ~10% guaranteed-human baseline. Even the
+paraphrase rings (the LLM-signature population) score in the human range
+(1.6–4.4/1k); they are consistent with advocacy-platform "personalize your
+message" tooling rather than LLM generation. Astroturf at industrial scale,
+machinery still largely pre-AI.
+
+Caveats: paraphrase rings are not proof of any specific tooling; 1,977
+attachment-only comments unexamined; detector catches the heavy AI register
+(subtle AI assistance not excluded).
