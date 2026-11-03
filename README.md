@@ -125,3 +125,20 @@ machinery still largely pre-AI.
 Caveats: paraphrase rings are not proof of any specific tooling; 1,977
 attachment-only comments unexamined; detector catches the heavy AI register
 (subtle AI assistance not excluded).
+
+## National study (42,140 comments, 2005-2026)
+
+Stratified sample across 340 agencies / 421,068 indexed dockets:
+
+- **21.3% of US federal public comments are mass-produced** (7.6% exact
+  duplicates [CI 5.8-9.3], 13.8% template families [CI 12.1-15.4]).
+- **Only ~19% of federal dockets receive any public comment at all.**
+- **AI-register text in individually-written comments roughly doubled after
+  ChatGPT**: 5.86% -> 11.36% (+5.5pp, p<0.0001, docket-level permutation),
+  surviving within-agency controls (4/4 agencies up, median +6.5pp).
+  This CORRECTS the earlier underpowered null (n=1,306, p=0.33).
+- **Most manufactured input**: OFCCP 51.6%, IRS 50.8%, CDC 44.9%.
+  **Least**: DOS 8.8%, FAA 12.2%, DOJ 12.8%.
+
+Pipeline: `corpus_survey.py` -> `build_index.py` -> `national_sample2.py` ->
+`estimate_national.py`. Bootstrap CIs resample dockets, not comments.

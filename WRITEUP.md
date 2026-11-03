@@ -1,8 +1,8 @@
 # Who Is Actually Talking When America Comments on Its Laws?
 
-*A forensic dissection of 118,284 public comments across the five-front 2025
-Endangered Species Act rulemaking war — and a search for the AI flood
-everyone expects.*
+*A national measurement of mass-produced and AI-register text in US federal
+public comments: 42,140 comments sampled across 340 agencies and 20 years,
+plus a full forensic dissection of one 118,284-comment rulemaking war.*
 
 ---
 
@@ -48,19 +48,47 @@ Two design choices did the heavy lifting:
 Data came from the public [Mirrulations](https://registry.opendata.aws/mirrulations/)
 mirror of regulations.gov — no special access, fully reproducible.
 
-## Finding 1: the AI flood has not arrived
+## Finding 1 (CORRECTED): AI-register text in individually-written comments has roughly doubled
 
-Across 1,306 deduplicated comments spanning six agencies (EPA, FDA, CMS, DEA,
-OSHA, FWS), matched within-agency before vs. after ChatGPT:
+**This section replaces an earlier, underpowered null result. The original
+conclusion was wrong, and the correction is instructive.**
 
-> **Suspect rate 10.1% before vs 11.8% after — statistically
-> indistinguishable** (docket-level permutation p = 0.33).
+Our first pass used 1,306 comments across six agencies and found no
+post-ChatGPT change (10.1% vs 11.8%, p = 0.33). We published that as "the AI
+flood has not arrived." We then built a nationally stratified sample — **42,140
+comments from 3,583 dockets across every major agency, 2005-2026** — and the
+null did not survive the added power:
 
-Unlike scientific publishing, federal public comments show **no detectable
-surge of heavy AI-register text**. A small pilot sample had hinted at a
-doubling; the 10×-larger powered run erased it. (Subtle AI assistance that
-doesn't produce the florid register is not excluded — our detector is
-calibrated for the style that flooded the journals.)
+| population | pre-ChatGPT (≤2022) | post-ChatGPT (≥2023) | change | p |
+|---|---|---|---|---|
+| **individually-written comments** | 5.86% | 11.36% | **+5.5 pp** | **< 0.0001** |
+| campaign/duplicate comments | 13.94% | 21.46% | +7.5 pp | 0.27 (n.s.) |
+| all comments pooled | 6.55% | 12.40% | +5.9 pp | 0.0014 |
+
+Two checks make this defensible:
+
+**Composition control.** The agency mix shifts sharply between eras (CDC and
+FINCEN appear only post-2023; FWS and NOAA only pre-2022), and those agencies
+have very different baseline rates — so the pooled result alone would be
+confounded. Comparing *within* each agency that has data on both sides removes
+this: **all four such agencies increased** (median +6.5 pp), with EPA the
+best-powered case (8,776 pre vs 2,145 post comments, 4.8% → 11.1%).
+
+**Clustering control.** All p-values come from permuting *dockets*, not
+comments, because comments cluster heavily within dockets.
+
+**Why our ESA study (Finding 3) found nothing.** That docket is 64% campaign
+mail, and campaign mail is pre-written human text; the AI signal lives in the
+individually-written minority, which that single-fight sample could not
+resolve. The two results are consistent, not contradictory.
+
+### What this does and does not show
+
+It does **not** prove 11% of recent comments were written by ChatGPT. The
+metric is *AI-register vocabulary*, and writing norms can drift for other
+reasons. What it shows is that the linguistic signature associated with LLM
+output has roughly doubled in individually-written public comments since
+ChatGPT's release, holds within agencies, and is highly unlikely to be chance.
 
 ## Finding 2: what the "public" actually is — an autopsy
 
