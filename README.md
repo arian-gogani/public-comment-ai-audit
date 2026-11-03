@@ -76,3 +76,24 @@ post-2023 comments via API key or bulk download) is the next step.
 Methodological note: our first rank test showed z = +9.2 and was WRONG (a
 tie-ordering bug systematically inflated post ranks). Caught by re-derivation;
 only the permutation test and two-proportion comparison survived scrutiny.
+
+## Powered result (bulk mirror sample, overnight run)
+
+1,522 comments from the Mirrulations full mirror (6 agencies × 2019-21 vs
+2023-25, matched within agency), 1,306 after form-letter dedup: **the pilot's
+doubling did NOT replicate.** Suspect rate 10.1% pre vs 11.8% post (+1.7pp,
+docket-level permutation p = 0.33). Per-year rates bounce 7-18% with no clean
+ChatGPT inflection (2023 shows 18.1% but 2024-25 return to ~12%).
+
+**Honest interpretation:** with ~1,300 comments we can rule out a large
+(≳5pp) surge of heavy-AI-register comments — federal public comments do NOT
+(yet) show the dramatic LLM contamination documented in scientific abstracts.
+The pilot signal (n_post=63) was noise, exactly the risk its caveat named.
+Remaining open: (a) subtle/light-register AI use is not excluded — the
+detector is calibrated for the heavy "delve/underscore" register; (b) the
+2023 bump and the FWS endangered-species dockets (16.7%) merit a targeted
+look; (c) scale to 10k+ comments shrinks the excludable effect further.
+
+This null is a finding: the democratic-input channel appears more
+AI-resistant than the scientific literature — or AI commenters write less
+floridly than AI paper-authors. Distinguishing those is the next experiment.
