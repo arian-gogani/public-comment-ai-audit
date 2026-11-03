@@ -60,3 +60,19 @@ Error/registers are measured in **aggregate** for public awareness. An
 LLM-register comment is not proof of misconduct by any individual; the finding
 of interest is the *rate and its trend*, and coordinated/mass AI submission as a
 mechanism. We do not accuse individuals.
+
+## Pilot result (real federal data, 2026-11-02)
+
+First run on 1,355 unique real comments (274 dockets, 1996–2024, form-letter
+deduped; data: ro-h/regulatory_comments). Calibrating on 1,290 guaranteed-human
+pre-2023 comments (suspect threshold = 90th pctile → 10.1% human rate by
+design): **post-ChatGPT suspect rate = 19.0% (12/63), +9.0pp, permutation
+p = 0.0245**. A tie-corrected Mann-Whitney on the full rate distribution is
+null (z = +0.76) — the shift is in the suspicious tail, not the bulk, which is
+the expected signature of partial AI contamination. With only 63 post-2023
+comments this is a pilot signal, not a headline; the powered run (thousands of
+post-2023 comments via API key or bulk download) is the next step.
+
+Methodological note: our first rank test showed z = +9.2 and was WRONG (a
+tie-ordering bug systematically inflated post ranks). Caught by re-derivation;
+only the permutation test and two-proportion comparison survived scrutiny.
