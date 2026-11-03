@@ -1,7 +1,8 @@
 # Who Is Actually Talking When America Comments on Its Laws?
 
-*A forensic dissection of 35,000 public comments on one of 2025's biggest
-environmental fights — and a search for the AI flood everyone expects.*
+*A forensic dissection of 118,284 public comments across the five-front 2025
+Endangered Species Act rulemaking war — and a search for the AI flood
+everyone expects.*
 
 ---
 
@@ -93,6 +94,41 @@ Concretely:
 *below* the human baseline. Even the paraphrase rings score in the human
 range; they look like advocacy-platform "personalize your message" tools, not
 language models.
+
+
+## Finding 3: the five-front war
+
+The "harm definition" docket was one front of a coordinated 2025 offensive —
+five companion dockets revising different pillars of the Endangered Species
+Act. We pulled **all 118,284 comments** across the five and fingerprinted
+every letter globally:
+
+- **1,242 distinct letters hit multiple dockets.** The second-largest letter
+  fired **14,400 copies across four dockets in near-perfectly equal shares**
+  (3,592 / 3,643 / 3,583 / 3,582) — the signature of a mail cannon configured
+  for four targets, not of people choosing where to write.
+- **Synchronized bombardment days:** December 22 alone delivered 15,299
+  comments across four fronts simultaneously; three more such multi-front
+  wave days (Dec 8, 9, 18). The spring front had its own 18,133-comment
+  single-day spike.
+- **War-wide census** (112,221 usable comments, disjoint accounting — every
+  comment counted exactly once): **17.8% exact copies, 45.2% template
+  families, 1.2% paraphrase rings, 35.8% apparent individuals.** Roughly
+  **two of every three comments in the entire war are campaign mail.** (The
+  single-docket table above shows a harsher 4-of-5 ratio; the difference is
+  real — fronts differ — and definitional: globally, exact copies that belong
+  to a template family are counted with their family.)
+- **AI register across the full war: 10.0% — exactly the human baseline.**
+  The strongest-powered version of Finding 1: even in the most contested
+  environmental rulemaking of 2025, the astroturf machinery is human-built.
+
+A methodological note we insist on including: our first war-map run produced
+an impossible total (a negative share) and a fictitious 32,742-member
+"paraphrase ring" — an artifact of short comments chaining on shared topic
+words. Both were caught by internal consistency checks, fixed (disjoint
+accounting; length-and-density guards validated on planted rings), and only
+then published. This is the third wrong number this project's own checks have
+intercepted before publication.
 
 ## What this means
 
