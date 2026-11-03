@@ -72,6 +72,8 @@ reworded — the signature LLM-era astroturf would leave).
 
 The anatomy of the "public voice" on this rule:
 
+![campaign structure](campaign_structure.png)
+
 | who | share |
 |---|---|
 | **Exact-copy form letters** | **68.0%** |
