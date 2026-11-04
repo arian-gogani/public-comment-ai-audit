@@ -142,3 +142,17 @@ Stratified sample across 340 agencies / 421,068 indexed dockets:
 
 Pipeline: `corpus_survey.py` -> `build_index.py` -> `national_sample2.py` ->
 `estimate_national.py`. Bootstrap CIs resample dockets, not comments.
+
+### Hardened within-agency test (58,779 comments)
+
+After a targeted post-2023 supplement, the confound-free test covers 13
+agencies instead of 4. Restricting to individually-written (non-duplicate)
+comments:
+
+- **11 of 13 agencies increased** post-ChatGPT; median +4.3pp; sign test p=0.011
+- Pooled: **5.86% -> 10.95%** (+5.1pp, docket-permutation p<0.0001)
+- Largest: TREAS +13.5pp, APHIS +10.6pp, USCG +8.0pp, DOS +7.8pp
+- Two decreased: PHMSA -0.5pp, HHS -15.7pp
+
+Raw sample files are gitignored (regenerable via the pipeline scripts); results
+JSONs are tracked.

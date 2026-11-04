@@ -2,3 +2,7 @@ comments_sample.jsonl
 __pycache__/
 *.pyc
 .env
+national_sample*.jsonl
+autopsy_*.jsonl
+bulk_comments.jsonl
+data_roh.json
