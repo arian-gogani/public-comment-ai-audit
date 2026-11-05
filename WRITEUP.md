@@ -82,6 +82,35 @@ mail, and campaign mail is pre-written human text; the AI signal lives in the
 individually-written minority, which that single-fight sample could not
 resolve. The two results are consistent, not contradictory.
 
+
+### Secular-trend control (the objection we anticipated)
+
+A raw pre/post comparison is confounded if AI-register vocabulary was already
+rising before ChatGPT. **It was** — a comment-weighted trend on 2005-2022 gives
+**+0.20 pp/year**. Testing post-2023 years against what that trend predicts:
+
+| year | observed | trend predicts | excess | z |
+|---|---|---|---|---|
+| 2023 | 10.9% | 7.5% | **+3.4 pp** | +2.9 |
+| 2024 | 13.8% | 7.7% | **+6.1 pp** | +5.3 |
+| 2025 | 9.6% | 7.9% | +1.7 pp | +1.5 |
+| 2026 | 9.7% | 8.1% | +1.5 pp | +1.3 |
+
+All four post-ChatGPT years exceed trend, and 2023-24 exceed every deviation
+observed in the prior 18 years (largest pre-period residual: +1.6 pp). The
+honest effect size is therefore **~+3 pp above trend**, not the +5 pp the raw
+comparison implies.
+
+**The shape matters.** The signal spikes in 2023-24 then settles toward trend.
+Two readings, and we cannot distinguish them with this data:
+1. an early-adopter burst that faded, or
+2. **the detector going blind** — the "delve/underscore" register was widely
+   mocked in 2024 and model providers tuned it down, so falling *detected* AI
+   text may not mean falling AI *use*.
+
+Reading (2) is the uncomfortable one: a vocabulary-based detector has a
+shelf life, and ours may already be expiring.
+
 ### What this does and does not show
 
 It does **not** prove 11% of recent comments were written by ChatGPT. The
